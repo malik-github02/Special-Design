@@ -510,7 +510,7 @@ input:focus {
        z-index: 1;
 }
 @media (max-width: 767px) {
-       .timeline::before {
+       .timeline .container::before {
               left: 31px;
        }
 }
